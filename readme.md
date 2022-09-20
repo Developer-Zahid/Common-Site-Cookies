@@ -1,0 +1,1 @@
+![Common Site Cookies Preview]('./assets/images/github-preview.png')
